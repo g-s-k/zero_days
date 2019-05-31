@@ -3,5 +3,9 @@ name = "zero_days"
 version = "0.1.0"
 authors = ["George Kaplan <george@georgekaplan.xyz>"]
 edition = "2018"
+readme = "./README.md"
+description = "a condescending way to express your feelings"
+repository = "https://github.com/g-s-k/zero_days.git"
+license = "GPL-3.0"
 
 [dependencies]
